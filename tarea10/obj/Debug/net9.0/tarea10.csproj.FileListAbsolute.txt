@@ -1,0 +1,4 @@
+C:\Users\59398\OneDrive\Documents\3CER SEMESTRE DEBERES\ESTRUCTURA DE DATOS\TAREAS GIT\TAREA DE CONJUNTOS\tarea10\obj\Debug\net9.0\tarea10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\59398\OneDrive\Documents\3CER SEMESTRE DEBERES\ESTRUCTURA DE DATOS\TAREAS GIT\TAREA DE CONJUNTOS\tarea10\obj\Debug\net9.0\tarea10.AssemblyInfoInputs.cache
+C:\Users\59398\OneDrive\Documents\3CER SEMESTRE DEBERES\ESTRUCTURA DE DATOS\TAREAS GIT\TAREA DE CONJUNTOS\tarea10\obj\Debug\net9.0\tarea10.AssemblyInfo.cs
+C:\Users\59398\OneDrive\Documents\3CER SEMESTRE DEBERES\ESTRUCTURA DE DATOS\TAREAS GIT\TAREA DE CONJUNTOS\tarea10\obj\Debug\net9.0\tarea10.csproj.CoreCompileInputs.cache
