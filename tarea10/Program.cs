@@ -21,3 +21,19 @@ for i = 1 to 75
 
 HashSet<string> pfizer = new HashSet<String>();
 for i = 1 to 75
+
+Listado de ciudadanos que han recibido las dos vacunas
+ 
+        HashSet<string> vacunadosPfizer = new HashSet<string>(ciudadanos.Take(75));
+        HashSet<string> vacunadosAstrazeneca = new HashSet<string>(ciudadanos.Skip(75)
+        
+Listado de ciudadanos que no se han vacunado
+HashSet<string> no vacunados = HashSet<string>(No vacunados diferencia (vacunados con Pfizer) diferencia (vacunados con Astrazeneca));
+
+
+Listado de ciudadanos que solamente han recibido la vacuna de pfizer
+HashSet<string> vacunados pfizer = HashSet<string>(vacunados pfizer diferencia(vacunados con astrazeneca) diferencia (No vacunados));
+
+
+Listado de ciudadanos que solamente han recibido la vacuna de Astrazeneca
+HashSet<string> vacunados astrazeneca= HashSet<string>(vacunados astrazeneca diferencia(vacunados con pfizer) diferencia (No vacunados));
